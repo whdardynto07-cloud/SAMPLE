@@ -1,0 +1,105 @@
+<svg viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1080" height="1920" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative Circles -->
+  <circle cx="900" cy="250" r="150" fill="#ffffff" opacity="0.1"/>
+  <circle cx="200" cy="1700" r="180" fill="#ffffff" opacity="0.1"/>
+  <circle cx="950" cy="1500" r="120" fill="#ffffff" opacity="0.15"/>
+  
+  <!-- Badge -->
+  <rect x="350" y="180" width="380" height="60" rx="30" fill="#ffd700" opacity="0.95"/>
+  <text x="540" y="222" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#333333">⭐ SPESIAL UNTUK UMKM</text>
+  
+  <!-- Main Title -->
+  <text x="540" y="350" font-family="Arial, sans-serif" font-size="65" font-weight="bold" text-anchor="middle" fill="#ffffff">
+    Waktunya Bisnis Anda
+  </text>
+  <text x="540" y="440" font-family="Arial, sans-serif" font-size="85" font-weight="bold" text-anchor="middle" fill="#ffd700">
+    MELEDAK
+  </text>
+  <text x="540" y="520" font-family="Arial, sans-serif" font-size="52" font-weight="bold" text-anchor="middle" fill="#ffffff">
+    dengan Landing Page
+  </text>
+  <text x="540" y="590" font-family="Arial, sans-serif" font-size="52" font-weight="bold" text-anchor="middle" fill="#ffffff">
+    Profesional!
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="540" y="680" font-family="Arial, sans-serif" font-size="38" font-weight="600" text-anchor="middle" fill="#ffffff" opacity="0.95">
+    Ubah Pengunjung Jadi Pembeli
+  </text>
+  <text x="540" y="730" font-family="Arial, sans-serif" font-size="38" font-weight="600" text-anchor="middle" fill="#ffffff" opacity="0.95">
+    dalam Hitungan Detik!
+  </text>
+  
+  <!-- Features Grid -->
+  <!-- Row 1 -->
+  <!-- Feature 1 - Desain Menawan -->
+  <rect x="80" y="850" width="280" height="240" rx="25" fill="#f5f7fa" opacity="0.95"/>
+  <rect x="80" y="850" width="280" height="240" rx="25" fill="none" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="220" y="930" font-family="Arial, sans-serif" font-size="65" text-anchor="middle">🎨</text>
+  <text x="220" y="995" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Desain</text>
+  <text x="220" y="1035" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Menawan</text>
+  
+  <!-- Feature 2 - Mobile Friendly -->
+  <rect x="400" y="850" width="280" height="240" rx="25" fill="#f5f7fa" opacity="0.95"/>
+  <rect x="400" y="850" width="280" height="240" rx="25" fill="none" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="540" y="930" font-family="Arial, sans-serif" font-size="65" text-anchor="middle">📱</text>
+  <text x="540" y="995" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Mobile</text>
+  <text x="540" y="1035" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Friendly</text>
+  
+  <!-- Feature 3 - Loading Kilat -->
+  <rect x="720" y="850" width="280" height="240" rx="25" fill="#f5f7fa" opacity="0.95"/>
+  <rect x="720" y="850" width="280" height="240" rx="25" fill="none" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="860" y="930" font-family="Arial, sans-serif" font-size="65" text-anchor="middle">⚡</text>
+  <text x="860" y="995" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Loading</text>
+  <text x="860" y="1035" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Kilat</text>
+  
+  <!-- Row 2 -->
+  <!-- Feature 4 - WhatsApp Ready -->
+  <rect x="80" y="1130" width="280" height="240" rx="25" fill="#f5f7fa" opacity="0.95"/>
+  <rect x="80" y="1130" width="280" height="240" rx="25" fill="none" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="220" y="1210" font-family="Arial, sans-serif" font-size="65" text-anchor="middle">💬</text>
+  <text x="220" y="1275" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">WhatsApp</text>
+  <text x="220" y="1315" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Ready</text>
+  
+  <!-- Feature 5 - SEO Optimized -->
+  <rect x="400" y="1130" width="280" height="240" rx="25" fill="#f5f7fa" opacity="0.95"/>
+  <rect x="400" y="1130" width="280" height="240" rx="25" fill="none" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="540" y="1210" font-family="Arial, sans-serif" font-size="65" text-anchor="middle">🔍</text>
+  <text x="540" y="1275" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">SEO</text>
+  <text x="540" y="1315" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Optimized</text>
+  
+  <!-- Feature 6 - Modern & Profesional -->
+  <rect x="720" y="1130" width="280" height="240" rx="25" fill="#f5f7fa" opacity="0.95"/>
+  <rect x="720" y="1130" width="280" height="240" rx="25" fill="none" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="860" y="1210" font-family="Arial, sans-serif" font-size="65" text-anchor="middle">✨</text>
+  <text x="860" y="1275" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Modern &</text>
+  <text x="860" y="1315" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#333333">Profesional</text>
+  
+  <!-- CTA Section -->
+  <rect x="80" y="1430" width="920" height="180" rx="30" fill="#ffffff" opacity="0.95"/>
+  <rect x="80" y="1430" width="920" height="180" rx="30" fill="none" stroke="#e0e0e0" stroke-width="3"/>
+  
+  <text x="540" y="1505" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#667eea">
+    KONSULTASI GRATIS
+  </text>
+  
+  <text x="540" y="1570" font-family="Arial, sans-serif" font-size="36" font-weight="600" text-anchor="middle" fill="#333333">
+    Wujudkan Website Impian Anda!
+  </text>
+  
+  <!-- Contact Info -->
+  <text x="540" y="1680" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#ffffff">
+    💼 Portfolio Tersedia
+  </text>
+</svg>
